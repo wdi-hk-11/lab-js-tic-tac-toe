@@ -52,7 +52,7 @@ For this lab, you'll be building a tic tac toe game in HTML, CSS, and pure JavaS
 
 #### Starter code
 
-There is no starter code provided for this lab.
+Fork this repo and clone it. There is an `index.html` and `style.css` template.
 
 #### Deliverable
 
