@@ -26,10 +26,10 @@ $(document).ready(function(){
         if(movesArray.indexOf(winningCombinations[i][j]) !== -1){
           winCounter++;
         }
-        if(winCounter === 3){
-          alert("Game over, " + name + " wins!");
-          resetBoard();
-        }
+      }
+      if(winCounter === 3){
+        alert("Game over, " + name + " wins!");
+        resetBoard();
       }
     }
   };
